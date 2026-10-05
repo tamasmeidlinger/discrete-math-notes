@@ -113,3 +113,37 @@ An open proposition (propositional function, predicate) is a statement in which 
 ## Definition of proof
 
 ![Definition of proof](images/definition-of-proof.png)
+
+## Prove p AND q
+
+![How to prove p and q](images/prove-p-and-q.png)
+
+## Prove p OR q
+
+![How to prove p or q](images/prove-p-or-q.png)
+
+## Even and Odd numbers
+
+![Even and odd numbers](images/even-odd.png)
+
+## Prove p IMPLIES q
+
+### Direct
+
+![Direct proof](images/prove-p-impl-q-direct.png)
+
+### Contraposition
+
+![By Contraposition](images/prove-p-impl-q-contrap.png)
+
+### Contradiction
+
+![Pigeonhole principle](images/prove-p-impl-q-contrad.png)
+
+![By contradiction](images/prove-p-impl-q-contrad-2.png)
+
+## Prove p EQUIVALENT q
+
+![Direct, double implication](images/prove-p-equiv-q.png)
+
+## Proof by induction
