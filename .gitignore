@@ -1,3 +1,7 @@
 .quarto
 *quarto*
 *.pdf
+
+/.quarto/
+**/*.quarto_ipynb
+to-do.md
