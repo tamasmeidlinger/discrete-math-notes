@@ -146,4 +146,81 @@ An open proposition (propositional function, predicate) is a statement in which 
 
 ![Direct, double implication](images/prove-p-equiv-q.png)
 
-## Proof by induction
+## Proofs to be continued
+
+Continue with proofs here
+
+# Sets
+
+## Quick reference
+
+| Set Relation / Operation | Symbol | Meaning | Example |
+|---|---|---|---|
+| Subset | A ⊆ B | Every element of A is also in B. | A = {1, 2}, B = {1, 2, 3} |
+| Proper Subset | A ⊊ B | A is a subset of B, but A is not equal to B. | A = {1, 2}, B = {1, 2, 3} |
+| Equality of Sets | A = B | Both sets contain exactly the same elements. | A = {1, 2, 3}, B = {3, 2, 1} |
+| Disjoint Sets | A ∩ B = ∅ | The sets have no elements in common. | A = {1, 2}, B = {3, 4} |
+| Overlapping Sets | A ∩ B ≠ ∅ | The sets have at least one element in common. | A = {1, 2, 3}, B = {3, 4, 5} |
+| Union | A ∪ B | All elements in A or B, without duplicates. | A = {1, 2}, B = {2, 3}; A ∪ B = {1, 2, 3} |
+| Intersection | A ∩ B | Elements common to both sets. | A = {1, 2, 3}, B = {3, 4}; A ∩ B = {3} |
+| Set Difference | A − B | Elements in A that are not in B. | A = {1, 2, 3}, B = {3, 4}; A − B = {1, 2} |
+| Empty Set | ∅ | A set containing no elements. | A = ∅ |
+| Universal Set | U | The set containing all elements under consideration. | U = {1, 2, 3, 4, 5} |
+
+## Basics
+
+### Definition
+
+![Definition of Set](images/sets-definition.png)
+
+### Set Builder Notation
+
+![Set builder Notation](images/set-builder-notation.png)
+
+### Venn Diagrams
+
+![Venn Diagrams](images/venn-diagrams.png)
+
+### Cardinality
+
+![Cardinality](images/cardinality-sets.png)
+
+### Equality, Subset, Superset
+
+![Equality, Subset, Superset](images/eq-subset-superset.png)
+
+### Power Set
+
+![Power Set](images/power-set.png)
+
+## Set Operators
+
+### Union
+
+![Union](images/union.png)
+
+### Intersection
+
+![Intersection](images/intersection.png)
+
+### Difference
+
+![Difference](images/difference.png)
+
+### Complement
+
+![Complement](images/complement.png)
+
+## Set Identities
+
+![Set Identities](images/set-identities.png)
+
+## Tuple
+
+![Tuple definition](images/tuple-definition.png)
+
+![Cartesion Product](images/cartesian-product.png)
+
+# Expected Learning Outcome
+
+![Expected Learning Outcome](images/expected-learning-outcome.png)
